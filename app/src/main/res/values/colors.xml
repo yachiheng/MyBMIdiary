@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--預色主題-->
+    <color name="colorPrimary">#4caf50</color>
+    <color name="colorPrimaryDark">#388e3c</color>
+    <color name="colorAccent">#8e388a</color>
+
+    <!--深色主題-->
+    <color name="colorPrimaryDayNight">#000000</color>
+    <color name="colorPrimaryDayNightDark">#000000</color>
+    <color name="colorAccentDayNight">#ffffff</color>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="attr_entry_textview_style" format="reference" />
+    <attr name="attr_entry_edit_style" format="reference"/>
+    <attr name="attr_entry_constraintlayout_style" format="reference"/>
+    <attr name="attr_border_with_shadow" format="reference"/>
+    <attr name="attr_entry_item_linearlayout_style" format="reference"/>
+    <attr name="attr_entry_switch_linearlayout_style" format="reference"/>
+    <attr name="attr_entry_button_style" format="reference"/>
+    <attr name="attr_entry_button_press" format="reference"/>
+</resources>

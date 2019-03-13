@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--深色主題-->
+    <style name="AppThemeDark" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/colorPrimaryDayNight</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDayNightDark</item>
+        <item name="colorAccent">@color/colorAccentDayNight</item>
+        <!--attribute-->
+        <item name="attr_entry_textview_style">@style/entry_textview_style_dark</item>
+        <item name="attr_entry_constraintlayout_style">@style/entry_constraintlayout_style_dark</item>
+        <item name="attr_border_with_shadow">@drawable/border_with_shadow_dark</item>
+        <item name="attr_entry_item_linearlayout_style">@style/entry_item_linearlayout_style_dark</item>
+        <item name="attr_entry_switch_linearlayout_style">@style/entry_switch_linearlayout_style_dark</item>
+        <item name="attr_entry_button_style">@style/entry_button_style_dark</item>
+        <item name="attr_entry_button_press">@drawable/entry_button_press_dark</item>
+    </style>
+
+    <style name="entry_textview_style_dark">
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFF</item>
+    </style>
+
+    <style name="entry_edit_style_dark">
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="entry_switch_linearlayout_style_dark">
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="entry_item_linearlayout_style_dark">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <style name="entry_button_style_dark">
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+    <style name="entry_constraintlayout_style_dark">
+        <item name="android:padding">8dp</item>
+    </style>
+</resources>

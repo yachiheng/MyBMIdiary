@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">我的BMI日記</string>
+    <string name="entryactivity_textview_height_title">身高</string>
+    <string name="entryactivity_textview_weight_title">體重</string>
+    <string name="entryactivity_textview_measure_title">測量日期</string>
+    <string name="entryactivity_textview_gender_title">性別</string>
+    <string name="entryactivity_button_detail_title">詳細</string>
+    <string name="entryactivity_button_save_title">儲存</string>
+    <string name="entryactivity_male_title">男</string>
+    <string name="entryactivity_female_title">女</string>
+</resources>

@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="attr_entry_textview_style">@style/entry_textview_style</item>
+        <!--attribute-->
+        <item name="attr_entry_edit_style">@style/entry_edit_style</item>
+        <item name="attr_entry_constraintlayout_style">@style/entry_constraintlayout_style</item>
+        <item name="attr_border_with_shadow">@drawable/border_with_shadow</item>
+        <item name="attr_entry_item_linearlayout_style">@style/entry_item_linearlayout_style</item>
+        <item name="attr_entry_switch_linearlayout_style">@style/entry_switch_linearlayout_style</item>
+        <item name="attr_entry_button_style">@style/entry_button_style</item>
+        <item name="attr_entry_button_press">@drawable/entry_button_press</item>
+    </style>
+
+    <style name="entry_textview_style">
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="entry_edit_style">
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="entry_switch_linearlayout_style">
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="entry_item_linearlayout_style">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <style name="entry_button_style">
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+    <style name="entry_constraintlayout_style">
+        <item name="android:padding">8dp</item>
+    </style>
+
+
+</resources>
